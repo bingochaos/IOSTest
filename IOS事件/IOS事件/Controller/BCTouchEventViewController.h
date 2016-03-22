@@ -1,0 +1,13 @@
+//
+//  BCTouchEventViewController.h
+//  IOS事件
+//
+//  Created by 黄斌超 on 15/9/10.
+//  Copyright (c) 2015年 bingoc. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface BCTouchEventViewController : UIViewController
+
+@end
